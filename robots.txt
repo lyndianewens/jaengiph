@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://heerohpho.ethanjaffee.com/sitemap.xml
